@@ -1,4 +1,4 @@
-export default function() {
+export default function () {
   return [
     { title: 'The name of the wind' },
     { title: 'The Fear of a Wise Man' },
